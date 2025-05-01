@@ -6,6 +6,9 @@
     ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_5/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1_1.jpg)
     ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_5/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1_2.jpg)
    
-4. Создайте Item который будет собирать информацию об загрузке CPU в процентах
+3. Создайте Item который будет собирать информацию об загрузке CPU в процентах
+   ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_5/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1_3.jpg)
+   ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_5/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1_4.jpg)
 5. Создайте Item который будет собирать информацию об загрузке RAM в процентах
 ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_5/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1_3.jpg)
+![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_5/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1_5.jpg)
