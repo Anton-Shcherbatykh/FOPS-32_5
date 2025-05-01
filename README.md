@@ -37,3 +37,13 @@
     ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_5/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_3_1.jpg)
 4. Проверьте что в раздел Latest Data начали поступать необходимые данные из вашего шаблона
    ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_5/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_3_2.jpg)
+
+## Задание 4
+Создайте свой кастомный дашборд.
+
+1. Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
+2. В разделе Dashboards создайте новый дашборд
+3. Разместите на нём несколько графиков на ваше усмотрение.
+    ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_5/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_4_1.jpg)
+   
+
