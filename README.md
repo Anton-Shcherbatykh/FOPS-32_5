@@ -27,3 +27,13 @@
  ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_5/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_2_2.jpg)
   ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_5/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_2_3.jpg)
    ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_5/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_2_4.jpg)
+
+## Задание 3
+Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
+
+1. Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
+2. Зайдите в настройки каждого хоста и в разделе Templates прикрепите к этому хосту ваш шаблон
+3. Так же к каждому хосту привяжите шаблон Linux by Zabbix Agent
+    ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_5/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_3_1.jpg)
+4. Проверьте что в раздел Latest Data начали поступать необходимые данные из вашего шаблона
+   ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_5/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_3_2.jpg)
