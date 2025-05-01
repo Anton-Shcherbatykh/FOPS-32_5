@@ -8,3 +8,4 @@
    
 4. Создайте Item который будет собирать информацию об загрузке CPU в процентах
 5. Создайте Item который будет собирать информацию об загрузке RAM в процентах
+![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_5/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1_3.jpg)
